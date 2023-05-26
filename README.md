@@ -6,7 +6,7 @@ University: University of Bergen (UiB), Department of Information Science and Me
 
 Collaborators: MediaFutures and Bergens Tidende/Schibsted
 
-Supervistors: Assoc. Prof. Df. Mehdi Elahi (UiB/MediaFutures) and Thomas Husken (BT)
+Supervisors: Assoc. Prof. Df. Mehdi Elahi (UiB/MediaFutures) and Thomas Husken (BT)
 
 
 ## Abstact

@@ -1,8 +1,11 @@
 # Master's thesis Peter Kolbeinsen Klingenberg
 
 Title: Using content- and behavioural data for recommendations in the Norwegian news market
+
 University: University of Bergen (UiB), Department of Information Science and Media Studies
+
 Collaborators: MediaFutures and Bergens Tidende/Schibsted
+
 Supervistors: Assoc. Prof. Df. Mehdi Elahi (UiB/MediaFutures) and Thomas Husken (BT)
 
 

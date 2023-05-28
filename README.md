@@ -40,6 +40,5 @@ even the groups that usually show less amount of interaction.
 
 
 ## Thesis code
-The folders ExperimentA, ExperimentB and ExperimentC contains the code used in this thesis, with datasets and some 
-concepts of Bergens Tidende missing.
+The folders ExperimentA, ExperimentB and ExperimentC contains the code used to address the research of this thesis, except for some missing concepts of Bergens Tidende due to confidentiality reasons, i.e., datasets and the implementations of the A/B test.
 

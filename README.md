@@ -9,7 +9,7 @@ Collaborators: MediaFutures and Bergens Tidende/Schibsted
 Supervisors: Assoc. Prof. Df. Mehdi Elahi (UiB/MediaFutures) and Thomas Husken (BT)
 
 
-## Abstact
+## Abstract
 In the news domain, the technological development has contributed to always accessible 
 platforms with frequent publishment of articles. This contributes to a vast amount of 
 articles, leading to a multitude of choices. Interactions executed by users (clicks, views or ratings) 
